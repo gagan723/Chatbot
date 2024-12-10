@@ -29,12 +29,14 @@ This project features a chatbot that provides personalized movie recommendations
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
+
 
 ### 3. Install Required Packages
 ```bash
