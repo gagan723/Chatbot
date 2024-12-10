@@ -6,7 +6,7 @@ This project features a chatbot that provides personalized movie recommendations
 ---
 
 ## Features
-- Recommends movies based on user input, such as genres or preferences.
+- Recommends movies based on user input, such as genres, language or preferences.
 - Recognizes user intents through trained NLP models.
 - Logs conversation history for review or analysis.
 - Easy-to-use interface with a visually appealing design.
