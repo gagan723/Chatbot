@@ -37,13 +37,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-
-### 3. Install Required Packages
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Download NLTK Data(If required)
+### 3. Download NLTK Data(If required)
 ```python
 import nltk
 nltk.download('punkt')
